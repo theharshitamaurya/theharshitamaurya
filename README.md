@@ -50,6 +50,9 @@
 - <b>IntelliHire</b> — AI‑powered virtual interviewer using NLP and ML models with React, Express.js, and TensorFlow.  
 - <b>Artisan Marketplace Assistant</b> — Generative AI tool that creates SEO‑optimized e‑commerce product descriptions using Groq API and PyTrends.  
 - <b>Study Buddy AI</b> — Quiz generator powered by LangChain and Groq API, supporting multiple question formats for active learning.  
+
+
+### Internship
 - <b>VOIS Virtual Intern</b> — Worked on conversational data analysis and LLM‑based workflows in a remote internship environment.  
 
 ---
@@ -57,8 +60,6 @@
 ### 🎓 Education  
 
 - Bachelor of Engineering in Artificial Intelligence and Machine Learning — Universal College of Engineering, Mumbai  
-- Higher Secondary Certificate (12th) — Vidya Varidhi Vidyalaya Junior College  
-- Secondary School Certificate (10th) — Vidya Varidhi Vidyalaya Junior College  
 
 ---
 
