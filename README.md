@@ -21,12 +21,10 @@
   <!-- Languages & Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+
 
   <!-- Backend & APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -34,8 +32,7 @@
 
   <!-- AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-
+ 
   <!-- Data & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
@@ -68,7 +65,7 @@
 ### 📫 Connect With Me  
 
 <div align="left">
-  <a href="https://linkedin.com/in/theharshitamaurya" target="_blank">
+  <a https://www.linkedin.com/in/harshita-maurya-1a8016149" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:theharshitamaurya@gmail.com" target="_blank">
