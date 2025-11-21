@@ -8,9 +8,9 @@
 
 ### 👩‍💻 About Me  
 
-- 🎓 AIML engineering student focused on building practical, intelligent systems.  
+- 🎓 AIML engineering student focused on practical, intelligent systems.  
 - 🤖 Exploring LLM apps, LangChain, Generative AI, and conversational agents.  
-- 🎯 Mission: Ship impactful AI products, contribute to open source, and grow into a strong full‑stack AI engineer.  
+- 🎯 Mission: Ship impactful AI products, contribute to open source, become a strong full‑stack AI engineer.  
 - 🎲 Fun fact: Love pairing classic debugging with modern AI tools to speed up learning.  
 
 ---
@@ -18,26 +18,14 @@
 ### 🛠 Tech Stack  
 
 <div align="left">
-  <!-- Languages & Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-
-
-  <!-- Backend & APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-
-  <!-- AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
- 
-  <!-- Data & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-
-  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=streamlit" height="40" alt="streamlit logo" />
 </div>
@@ -46,14 +34,16 @@
 
 ### 🚀 Featured Projects  
 
-- <b>Conversational BI Analyst</b> — Chatbot for querying business data using LangChain, OpenAI API, and Streamlit for interactive analytics.  
-- <b>IntelliHire</b> — AI‑powered virtual interviewer using NLP and ML models with React, Express.js, and TensorFlow.  
-- <b>Artisan Marketplace Assistant</b> — Generative AI tool that creates SEO‑optimized e‑commerce product descriptions using Groq API and PyTrends.  
-- <b>Study Buddy AI</b> — Quiz generator powered by LangChain and Groq API, supporting multiple question formats for active learning.  
+- **Conversational BI Analyst** — Chatbot for querying business data using LangChain, OpenAI API, and Streamlit for interactive analytics.  
+- **IntelliHire** — AI‑powered virtual interviewer using NLP and ML models with React, Express.js, and TensorFlow.  
+- **Artisan Marketplace Assistant** — Generative AI tool creating SEO‑optimized e‑commerce product descriptions using Groq API and PyTrends.  
+- **Study Buddy AI** — Quiz generator powered by LangChain and Groq API, supporting multiple question formats for active learning.  
 
+---
 
-### Internship
-- <b>VOIS Virtual Intern</b> — Worked on conversational data analysis and LLM‑based workflows in a remote internship environment.  
+### 🧑‍💼 Internship
+
+- **VOIS Virtual Intern** — Worked on conversational data analysis and LLM‑based workflows in a remote internship environment.  
 
 ---
 
@@ -65,8 +55,10 @@
 
 ### 📫 Connect With Me  
 
+_I'm open to collaboration, freelance projects, or just connecting with aspiring AI/ML engineers!_
+
 <div align="left">
-  <a https://www.linkedin.com/in/harshita-maurya-1a8016149" target="_blank">
+  <a href="https://www.linkedin.com/in/harshita-maurya-1a8016149" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:theharshitamaurya@gmail.com" target="_blank">
