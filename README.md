@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋 I'm Harshita Maurya</h1>
 
 <p align="center">
@@ -9,10 +8,10 @@
 
 ### 👩‍💻 About Me  
 
-- 🎓 AIML Engineering student passionate about building intelligent, real‑world AI solutions.  
-- 🤖 Currently exploring LLM apps, LangChain, Generative AI, and conversational agents.  
-- 🎯 Goal: Ship impactful AI products, contribute to open source, and grow as a full‑stack AI engineer.  
-- 🎲 Fun fact: I use AI tools to speed up learning, but still love debugging things the old‑school way.  
+- 🎓 AIML engineering student focused on building practical, intelligent systems.  
+- 🤖 Exploring LLM apps, LangChain, Generative AI, and conversational agents.  
+- 🎯 Mission: Ship impactful AI products, contribute to open source, and grow into a strong full‑stack AI engineer.  
+- 🎲 Fun fact: Love pairing classic debugging with modern AI tools to speed up learning.  
 
 ---
 
@@ -23,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
@@ -32,11 +31,11 @@
   <!-- Backend & APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  
+
   <!-- AI / ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  
+
   <!-- Data & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
@@ -50,11 +49,11 @@
 
 ### 🚀 Featured Projects  
 
-- <b>Conversational BI Analyst</b> — Chatbot for querying business data using LangChain, OpenAI API, and Streamlit for an interactive analytics experience.  
-- <b>IntelliHire</b> — AI‑powered virtual interviewer using NLP and ML models with React, Express.js, and TensorFlow on the backend.  
-- <b>Artisan Marketplace Assistant</b> — Generative AI tool that crafts SEO‑optimized e‑commerce product descriptions using Groq API and PyTrends.  
-- <b>Study Buddy AI</b> — Custom quiz generator built with LangChain and Groq API, supporting multiple question formats for active learning.  
-- <b>VOIS Virtual Intern</b> — Worked on conversational data analysis and LLM workflows during a remote internship.  
+- <b>Conversational BI Analyst</b> — Chatbot for querying business data using LangChain, OpenAI API, and Streamlit for interactive analytics.  
+- <b>IntelliHire</b> — AI‑powered virtual interviewer using NLP and ML models with React, Express.js, and TensorFlow.  
+- <b>Artisan Marketplace Assistant</b> — Generative AI tool that creates SEO‑optimized e‑commerce product descriptions using Groq API and PyTrends.  
+- <b>Study Buddy AI</b> — Quiz generator powered by LangChain and Groq API, supporting multiple question formats for active learning.  
+- <b>VOIS Virtual Intern</b> — Worked on conversational data analysis and LLM‑based workflows in a remote internship environment.  
 
 ---
 
@@ -93,7 +92,6 @@
 ---
 
 ### 🕹 Pac‑Man Contribution Graph  
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theharshitamaurya/theharshitamaurya/output/pacman-contribution-graph-dark.svg">
