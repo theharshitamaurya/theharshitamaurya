@@ -2,7 +2,7 @@ name: Update Pac-Man Contribution
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily at midnight UTC
+    - cron: '0 0 * * *'  # daily
   workflow_dispatch:
 
 jobs:
@@ -12,13 +12,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: List repo root files
-        run: ls -la
-
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@v1.0.4
         with:
-          github_user_name: ${{ github.theharshitamaurya}}
+          github_user_name: ${{ github.repository_owner }}
 
       - name: List dist directory contents
         run: ls -la dist || echo "dist folder missing"
