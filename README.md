@@ -52,7 +52,19 @@
 - Bachelor of Engineering in Artificial Intelligence and Machine Learning — Universal College of Engineering, Mumbai  
 
 ---
+---
 
+### 🏆 Community & Developer Badges
+
+[<img src="https://developers.google.com/profile/badges/community/gdg/discovery" height="62" alt="GDG Discovery" title="Google Developer Group discovery"/>](https://developers.google.com/profile/badges/community/gdg/discovery)
+[<img src="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" height="62" alt="Cloud Innovator" title="Google Cloud Innovator"/>](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
+[<img src="https://developers.google.com/profile/badges/nvidia-developer" height="62" alt="NVIDIA Community" title="Google Cloud & NVIDIA Community member"/>](https://developers.google.com/profile/badges/nvidia-developer)
+[<img src="https://developers.google.com/profile/badges/community/gdg/GDGoC/member" height="62" alt="On Campus" title="On Campus member"/>](https://developers.google.com/profile/badges/community/gdg/GDGoC/member)
+[<img src="https://developers.google.com/profile/badges/profile/created-profile" height="62" alt="Dev Program" title="Google Developer Program Member"/>](https://developers.google.com/profile/badges/profile/created-profile)
+
+
+
+---
 ### 📫 Connect With Me  
 
 _I'm open to collaboration, freelance projects, or just connecting with aspiring AI/ML engineers!_
@@ -67,6 +79,7 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
   <a href="https://github.com/theharshitamaurya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="30" alt="GitHub" />
   </a>
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harshita2024)
 </div>
 
 ---
