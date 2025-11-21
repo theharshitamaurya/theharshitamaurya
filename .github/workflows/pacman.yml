@@ -2,8 +2,8 @@ name: Update Pac-Man Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily at 00:00 UTC
-  workflow_dispatch:      # allow manual run from Actions tab
+    - cron: '0 0 * * *'  # daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate-pacman:
@@ -12,10 +12,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: List repo root files
+        run: ls -la
+
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.theharshitamaurya}}
+
+      - name: List dist directory contents
+        run: ls -la dist || echo "dist folder missing"
 
       - name: Push pacman SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
