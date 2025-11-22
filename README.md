@@ -56,11 +56,28 @@
 
 ### 🏆 Community & Developer Badges
 
-[<img src="https://developers.google.com/profile/badges/community/gdg/discovery" height="62" alt="GDG Discovery" title="Google Developer Group discovery"/>](https://developers.google.com/profile/badges/community/gdg/discovery)
-[<img src="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" height="62" alt="Cloud Innovator" title="Google Cloud Innovator"/>](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
-[<img src="https://developers.google.com/profile/badges/nvidia-developer" height="62" alt="NVIDIA Community" title="Google Cloud & NVIDIA Community member"/>](https://developers.google.com/profile/badges/nvidia-developer)
-[<img src="https://developers.google.com/profile/badges/community/gdg/GDGoC/member" height="62" alt="On Campus" title="On Campus member"/>](https://developers.google.com/profile/badges/community/gdg/GDGoC/member)
-[<img src="https://developers.google.com/profile/badges/profile/created-profile" height="62" alt="Dev Program" title="Google Developer Program Member"/>](https://developers.google.com/profile/badges/profile/created-profile)
+<div align="center">
+
+  <!-- Joined the Google Developer Program - May 2, 2024 -->
+  <img src="./badges/joined-google-developer-program.svg" height="60" alt="Joined the Google Developer Program"/>
+  <br><sub>Joined the Google Developer Program<br><i>May 2, 2024</i></sub>
+
+  <!-- Google Cloud & NVIDIA community member - Nov 16, 2025 -->
+  <img src="./badges/google-cloud-nvidia-community.svg" height="60" alt="Google Cloud & NVIDIA community member"/>
+  <br><sub>Google Cloud & NVIDIA community member<br><i>Nov 16, 2025</i></sub>
+
+  <!-- Google Developer Group on Campus member - Oct 28, 2025 -->
+  <img src="./badges/gdg-campus-member.svg" height="60" alt="Google Developer Group on Campus member"/>
+  <br><sub>Google Developer Group on Campus member<br><i>Oct 28, 2025</i></sub>
+
+  <!-- Google Cloud Innovator - Nov 21, 2025 -->
+  <img src="./badges/google-cloud-innovator.svg" height="60" alt="Google Cloud Innovator"/>
+  <br><sub>Google Cloud Innovator<br><i>Nov 21, 2025</i></sub>
+
+  <!-- Google Developer Group discovery - Nov 21, 2025 -->
+  <img src="./badges/gdg-discovery.svg" height="60" alt="Google Developer Group discovery"/>
+  <br><sub>Google Developer Group discovery<br><i>Nov 21, 2025</i></sub>
+</div>
 
 
 
@@ -79,9 +96,10 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
   <a href="https://github.com/theharshitamaurya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="30" alt="GitHub" />
   </a>
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harshita2024)
+  <a href="https://www.kaggle.com/harshita2024" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&color=20BEFF&style=for-the-badge" height="30" alt="Kaggle" />
+  </a>
 </div>
-
 ---
 
 ### 📊 GitHub Stats  
