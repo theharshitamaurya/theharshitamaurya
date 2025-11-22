@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40" alt="streamlit logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo" />
 </div>
 
 ---
@@ -51,37 +51,9 @@
 
 - Bachelor of Engineering in Artificial Intelligence and Machine Learning — Universal College of Engineering, Mumbai  
 
----
----
-
-### 🏆 Community & Developer Badges
-
-<div align="center">
-
-  <!-- Joined the Google Developer Program - May 2, 2024 -->
-  <img src="./badges/joined-google-developer-program.svg" height="60" alt="Joined the Google Developer Program"/>
-  <br><sub>Joined the Google Developer Program<br><i>May 2, 2024</i></sub>
-
-  <!-- Google Cloud & NVIDIA community member - Nov 16, 2025 -->
-  <img src="./badges/google-cloud-nvidia-community.svg" height="60" alt="Google Cloud & NVIDIA community member"/>
-  <br><sub>Google Cloud & NVIDIA community member<br><i>Nov 16, 2025</i></sub>
-
-  <!-- Google Developer Group on Campus member - Oct 28, 2025 -->
-  <img src="./badges/gdg-campus-member.svg" height="60" alt="Google Developer Group on Campus member"/>
-  <br><sub>Google Developer Group on Campus member<br><i>Oct 28, 2025</i></sub>
-
-  <!-- Google Cloud Innovator - Nov 21, 2025 -->
-  <img src="./badges/google-cloud-innovator.svg" height="60" alt="Google Cloud Innovator"/>
-  <br><sub>Google Cloud Innovator<br><i>Nov 21, 2025</i></sub>
-
-  <!-- Google Developer Group discovery - Nov 21, 2025 -->
-  <img src="./badges/gdg-discovery.svg" height="60" alt="Google Developer Group discovery"/>
-  <br><sub>Google Developer Group discovery<br><i>Nov 21, 2025</i></sub>
-</div>
-
-
 
 ---
+
 ### 📫 Connect With Me  
 
 _I'm open to collaboration, freelance projects, or just connecting with aspiring AI/ML engineers!_
@@ -100,6 +72,7 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&color=20BEFF&style=for-the-badge" height="30" alt="Kaggle" />
   </a>
 </div>
+
 ---
 
 ### 📊 GitHub Stats  
@@ -119,3 +92,46 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theharshitamaurya/theharshitamaurya/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/theharshitamaurya/theharshitamaurya/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### 🏆 Community & Developer Badges
+
+<div align="center">
+
+  <!-- Joined the Google Developer Program -->
+  <a href="https://developers.google.com/profile/badges/profile/created-profile" target="_blank">
+    <img src="./badges/joined-google-developer-program.svg" height="60" alt="Joined the Google Developer Program"/>
+    <br>
+    <sub>Joined the Google Developer Program<br><i>May 2, 2024</i></sub>
+  </a>
+
+  <!-- Google Cloud & NVIDIA community member -->
+  <a href="https://developers.google.com/profile/badges/nvidia-developer" target="_blank">
+    <img src="./badges/google-cloud-nvidia-community.svg" height="60" alt="Google Cloud & NVIDIA community member"/>
+    <br>
+    <sub>Google Cloud & NVIDIA community member<br><i>Nov 16, 2025</i></sub>
+  </a>
+
+  <!-- Google Developer Group on Campus member -->
+  <a href="https://developers.google.com/profile/badges/community/gdg/GDGoC/member" target="_blank">
+    <img src="./badges/gdg-campus-member.svg" height="60" alt="Google Developer Group on Campus member"/>
+    <br>
+    <sub>Google Developer Group on Campus member<br><i>Oct 28, 2025</i></sub>
+  </a>
+
+  <!-- Google Cloud Innovator -->
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" target="_blank">
+    <img src="./badges/google-cloud-innovator.svg" height="60" alt="Google Cloud Innovator"/>
+    <br>
+    <sub>Google Cloud Innovator<br><i>Nov 21, 2025</i></sub>
+  </a>
+
+  <!-- Google Developer Group discovery -->
+  <a href="https://developers.google.com/profile/badges/community/gdg/discovery" target="_blank">
+    <img src="./badges/gdg-discovery.svg" height="60" alt="Google Developer Group discovery"/>
+    <br>
+    <sub>Google Developer Group discovery<br><i>Nov 21, 2025</i></sub>
+  </a>
+
+</div>
