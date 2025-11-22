@@ -94,7 +94,7 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
 </picture>
 
 ---
-<--
+<!---
 ### 🏆 Community & Developer Badges
 
 <a href="https://developers.google.com/profile/u/105302430962994094642" target="_blank">
@@ -104,4 +104,4 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
 <strong>
 See all my official <a href="https://developers.google.com/profile/u/105302430962994094642" target="_blank">Google Developer badges</a> and community contributions here.
 </strong>
--->
+---!>
