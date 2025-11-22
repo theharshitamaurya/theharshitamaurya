@@ -97,41 +97,10 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
 
 ### 🏆 Community & Developer Badges
 
-<div align="center">
-
-  <!-- Joined the Google Developer Program -->
-  <a href="https://developers.google.com/profile/badges/profile/created-profile" target="_blank">
-    <img src="./badges/joined-google-developer-program.svg" height="60" alt="Joined the Google Developer Program"/>
-    <br>
-    <sub>Joined the Google Developer Program<br><i>May 2, 2024</i></sub>
-  </a>
-
-  <!-- Google Cloud & NVIDIA community member -->
-  <a href="https://developers.google.com/profile/badges/nvidia-developer" target="_blank">
-    <img src="./badges/google-cloud-nvidia-community.svg" height="60" alt="Google Cloud & NVIDIA community member"/>
-    <br>
-    <sub>Google Cloud & NVIDIA community member<br><i>Nov 16, 2025</i></sub>
-  </a>
-
-  <!-- Google Developer Group on Campus member -->
-  <a href="https://developers.google.com/profile/badges/community/gdg/GDGoC/member" target="_blank">
-    <img src="./badges/gdg-campus-member.svg" height="60" alt="Google Developer Group on Campus member"/>
-    <br>
-    <sub>Google Developer Group on Campus member<br><i>Oct 28, 2025</i></sub>
-  </a>
-
-  <!-- Google Cloud Innovator -->
-  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member" target="_blank">
-    <img src="./badges/google-cloud-innovator.svg" height="60" alt="Google Cloud Innovator"/>
-    <br>
-    <sub>Google Cloud Innovator<br><i>Nov 21, 2025</i></sub>
-  </a>
-
-  <!-- Google Developer Group discovery -->
-  <a href="https://developers.google.com/profile/badges/community/gdg/discovery" target="_blank">
-    <img src="./badges/gdg-discovery.svg" height="60" alt="Google Developer Group discovery"/>
-    <br>
-    <sub>Google Developer Group discovery<br><i>Nov 21, 2025</i></sub>
-  </a>
-
-</div>
+<a href="https://developers.google.com/profile/u/105302430962994094642" target="_blank">
+  <img src="https://www.gstatic.com/devrel-devsite/prod/vf99a8419e8689d974693800a14938230708bfb55927a7678e4c7b4aba2913759/developers/images/touchicon-180.png" height="50" alt="Google Developer Profile" />
+</a>
+<br>
+<strong>
+See all my official <a href="https://developers.google.com/profile/u/105302430962994094642" target="_blank">Google Developer badges</a> and community contributions here.
+</strong>
