@@ -78,7 +78,7 @@ _I'm open to collaboration, freelance projects, or just connecting with aspiring
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theharshitamaurya&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=theharshitamaurya&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharshitamaurya&layout=compact&theme=dracula" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=theharshitamaurya&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
